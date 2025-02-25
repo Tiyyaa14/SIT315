@@ -1,4 +1,4 @@
-const int pirPin = 7;   
+const int pirPin = 2;   
 const int ledPin = 13;  
 volatile bool motionDetected = false;  
 
